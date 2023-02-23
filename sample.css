@@ -1,0 +1,23 @@
+/* gjhkj */
+h1{
+    color:blue;
+}
+p{
+    color:rgb(61, 7, 92);
+    
+}
+table{
+    border:1px solid black;
+    background-color: yellow;
+
+}
+td{
+    border:1px solid black;
+}
+#m1,#m2,#m3,#m4,#m5,#m6{
+    text-align:justify;
+    text-indent: 50px;
+}
+button{
+    background-color:brown;
+}
